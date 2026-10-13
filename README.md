@@ -1,4 +1,4 @@
-# Manual-Bun-P-rezRepiso_Carmen
+# Manual-Bun-PerezRepiso_Carmen
 
 Manual de arranque de **Bun**, un entorno de ejecución de JavaScript y TypeScript que incluye también gestor de paquetes y ejecutor de tests. Este repositorio contiene el manual y el código del ejemplo que lo acompaña.
 
