@@ -10,9 +10,9 @@ Manual de arranque de **Bun**, un entorno de ejecución de JavaScript y TypeScri
 ## Qué hay en el repositorio
 
 ```
-manual-bun-perez/
+manual-bun-perezrepsio-Carmen/
 ├── README.md                  <- este archivo
-├── manual-bun-perez.pdf       <- el manual completo
+├── manual-bun-perezrepsio-Carmen.pdf       <- el manual completo
 └── ejemplo/
     ├── tarea.ts               <- el programa de ejemplo
     ├── index.ts               <- archivo de prueba que crea "bun init"
